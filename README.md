@@ -9,11 +9,16 @@ Professional response-formatter library.
 
 ## Installation
 ```bash
-# Install
+npm install response-formatter
 ```
 
 ## Usage
-```bash
-# Use it
+```javascript
+const lib = require('response-formatter');
+console.log(lib);
 ```
 
+## Testing
+```bash
+npm test
+```

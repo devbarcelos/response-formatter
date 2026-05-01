@@ -1,1 +1,16 @@
-{"name":"response-formatter","version":"1.0.0","description":"Professional response-formatter library"}
+{
+  "name": "response-formatter",
+  "version": "1.0.0",
+  "description": "Professional response-formatter library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": ["response-formatter", "library", "javascript"],
+  "author": "leeydev",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
